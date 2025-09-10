@@ -48,6 +48,3 @@ O repositório está organizado por **unidades** e **assuntos**, contemplando ex
 Os códigos foram desenvolvidos na linguagem **C** e podem ser executados em diferentes ambientes. Algumas opções recomendadas:
 
 - [VS Code](https://code.visualstudio.com/) com **extensão C/C++**
-- [Google Colab](https://colab.research.google.com/) *(adaptado para execução de C)*
-
-> **Observação:** O Google Colab é uma ferramenta originalmente projetada para **Python**, mas foi configurada para permitir a execução de códigos em **C**.
