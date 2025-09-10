@@ -11,7 +11,7 @@
 
 int main() 
 {
-	int v[5] = {5, 2, 3, 1, 9};
+	int v[MAX] = {5, 2, 3, 1, 9};
 
     printf("Preencha o vetor com %d valores inteiros:\n", MAX);
     for(int i = 0; i < MAX; i++)
