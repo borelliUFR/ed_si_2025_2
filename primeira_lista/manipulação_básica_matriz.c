@@ -1,4 +1,4 @@
-// 1. Manipulação Básica de Matriz
+// 4. Manipulação Básica de Matriz
     // Objetivo: Praticar a declaração e o acesso a elementos em uma matriz.
     // 1. Declare uma matriz 3 × 3 do tipo int.
     // 2. Preencha a matriz com valores digitados pelo usuário.
