@@ -1,9 +1,9 @@
-// Manipulação Básica de Matriz
-// Objetivo: Praticar a declaração e o acesso a elementos em uma matriz.
-// 1. Declare uma matriz 3 × 3 do tipo int.
-// 2. Preencha a matriz com valores digitados pelo usuário.
-// 3. Exiba a matriz de forma organizada (linhas e colunas).
-// 4. Calcule e exiba a soma dos elementos da diagonal principal.
+// 1. Manipulação Básica de Matriz
+    // Objetivo: Praticar a declaração e o acesso a elementos em uma matriz.
+    // 1. Declare uma matriz 3 × 3 do tipo int.
+    // 2. Preencha a matriz com valores digitados pelo usuário.
+    // 3. Exiba a matriz de forma organizada (linhas e colunas).
+    // 4. Calcule e exiba a soma dos elementos da diagonal principal.
 
 #include <stdio.h>
 
