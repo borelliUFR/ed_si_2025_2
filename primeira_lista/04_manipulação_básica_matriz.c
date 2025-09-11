@@ -5,14 +5,19 @@
     // 3. Exiba a matriz de forma organizada (linhas e colunas).
     // 4. Calcule e exiba a soma dos elementos da diagonal principal.
 
+// importando a biblioteca padrão de entrada e saída
 #include <stdio.h>
 
+// Definindo o número máximo de linhas e colunas
 #define LINHAS 3
 #define COLUNAS 3
 
+// Função principal
 int main() 
 {
+    // definindo a matriz
     int matriz[LINHAS][COLUNAS];
+    // variável para armazenar soma da diagonal principal
     int somaDiagonal = 0;
 
     // Preenchendo a matriz com valores do usuário

@@ -6,12 +6,15 @@
 // 3. Implemente a lógica para inverter os elementos.
 // 4. Imprima ambos os vetores para comparar os resultados.
 
+// importando a biblioteca padrão de entrada e saída
 #include <stdio.h>
+// Definindo o número máximo de posições
+#define MAX 10
 
-#define MAX 7
-
+// Função principal
 int main() 
 {
+    // definindo vetor de 7 posições e vetor vazio que receberá dados invertidos
     int v1[MAX] = {1, 2, 3, 4, 5, 6, 7};
     int v2[MAX];
 
